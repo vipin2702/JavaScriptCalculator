@@ -1,0 +1,26 @@
+.calc{
+  position:absolute;
+  background-color:red;
+  width:300px;
+  height:350px;
+}
+#disp{
+  display:block;
+  height:52px;
+  background-color:blue;
+  margin:8px;
+}
+.calc button{
+  height:45px;
+  width:50px;
+  background-color:yellow;
+  margin:5px 5px 5px 15px;
+}
+#ans{
+  width:270px;
+}
+#disp{
+  font-size:45px;
+  text-align:right;
+  overflow:auto;
+}
